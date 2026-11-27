@@ -1,0 +1,26 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "nome": "Dramas da Elara",
+      "descricao": "Mini séries publicadas no canal Dramas da Elara.",
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Episódio 1",
+          "youtube": ""
+        },
+        {
+          "numero": 2,
+          "titulo": "Episódio 2",
+          "youtube": ""
+        },
+        {
+          "numero": 3,
+          "titulo": "Episódio 3",
+          "youtube": ""
+        }
+      ]
+    }
+  ]
+}
